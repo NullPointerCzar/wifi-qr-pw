@@ -22,7 +22,7 @@ A simple macOS script that retrieves your **current Wi-Fi SSID, password, and se
 ## Usage
 
 ```bash
-chmod +x wifi-qr.sh
+chmod +x ssid-pw-qr.sh
 ./wifi-qr.sh
 ```
 
