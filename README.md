@@ -23,7 +23,7 @@ A simple macOS script that retrieves your **current Wi-Fi SSID, password, and se
 
 ```bash
 chmod +x ssid-pw-qr.sh
-./wifi-qr.sh
+./ssid-pw-qr.sh
 ```
 
 Scan the displayed QR code with any phone to connect automatically.
